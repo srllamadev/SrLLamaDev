@@ -1,10 +1,10 @@
 # SrLLamaDev
 
 <h1 align="center">🦙🦙🦙 Hi, I am Yamil 🦙🦙🦙</h1>
-<h3 align="center">I'm a Sr Programmer Llama | Passionate about programming | I love the role of director.  </h3>
+<h3 align="center">I'm a Sr Programmer Llama | Passionate about programming | Coding 🚀🚀🚀 </h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Solidity+Director;Code+and+Teaching+Enthusiast;Building+the+Future+of+Web3" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Solidity+Coach;Code+and+Teaching+Enthusiast;Building+the+Future+of+Web3" />
 </p>
 
 ---
