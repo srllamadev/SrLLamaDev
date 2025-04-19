@@ -11,7 +11,7 @@
 
 ## 🧑‍🏫 About me
 
-I enjoy teaching, have experience in several programming languages, and a passion for sharing knowledge. This repository is dedicated to **teaching Web3 development** and other languages ​​from the tech world.
+I'm a director and I enjoy teaching as a hobby. I have experience in several programming languages ​​and I'm passionate about sharing knowledge. This repository is dedicated to *teaching Web3 development* and other languages ​​from the tech world.
 
 - 📚 I specialize in teaching **Solidity**, with a practical approach and real-world projects.
 - 🌐 Also experienced in **Java**, **Python**, **PHP**.
