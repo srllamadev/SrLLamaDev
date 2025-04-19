@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Yamil 👋</h1>
-<h3 align="center">Docente de Solidity | Apasionado por la programación | 🇧🇴 Bolivia</h3>
+<h3 align="center">I'm a Sr Programmer Llama | Apasionado por la programación | I'm Sr LLama Dev </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Docente+de+Solidity;Amante+del+código+y+la+enseñanza;Construyendo+el+futuro+Web3" />
@@ -9,7 +9,7 @@
 
 ## 🧑‍🏫 Sobre mí
 
-Soy **docente de Solidity**, con experiencia en varios lenguajes de programación y un gran gusto por compartir conocimiento. Este repositorio está dedicado a **enseñar desarrollo Web3** y más herramientas del mundo tech.
+Me gusta enseñar, tengo experiencia en varios lenguajes de programación y un gran gusto por compartir conocimiento. Este repositorio está dedicado a **enseñar desarrollo Web3** y más lenguajes del mundo tech.
 
 - 📚 Me especializo en enseñar **Solidity**, con enfoque práctico y proyectos reales.
 - 🌐 Experiencia también en **Java**, **Python**, **PHP**.
