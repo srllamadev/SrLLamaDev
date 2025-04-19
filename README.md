@@ -49,7 +49,7 @@ Me gusta enseñar, tengo experiencia en varios lenguajes de programación y un g
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srllamadev&show_icons=true&theme=radical" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=srllamadev&show_icons=true&theme=radical" />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srllamadev&layout=compact&theme=radical" />
 </p>
 
