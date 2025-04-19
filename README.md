@@ -1,7 +1,7 @@
 # SrLLamaDev
 
-<h1 align="center">🦙🦙🦙🦙 Hola, soy Yamil 🦙🦙🦙🦙</h1>
-<h3 align="center">I'm a Sr Programmer Llama | Apasionado por la programación | I'm Sr LLama Dev </h3>
+<h1 align="center">🦙🦙🦙🦙 Hi, I am Yamil 🦙🦙🦙🦙</h1>
+<h3 align="center">I'm a Sr Programmer Llama | Passionate about programming | I love the role of director.  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Docente+de+Solidity;Amante+del+código+y+la+enseñanza;Construyendo+el+futuro+Web3" />
@@ -9,34 +9,34 @@
 
 ---
 
-## 🧑‍🏫 Sobre mí
+## 🧑‍🏫 About me
 
-Me gusta enseñar, tengo experiencia en varios lenguajes de programación y un gran gusto por compartir conocimiento. Este repositorio está dedicado a **enseñar desarrollo Web3** y más lenguajes del mundo tech.
+I enjoy teaching, have experience in several programming languages, and a passion for sharing knowledge. This repository is dedicated to **teaching Web3 development** and other languages ​​from the tech world.
 
-- 📚 Me especializo en enseñar **Solidity**, con enfoque práctico y proyectos reales.
-- 🌐 Experiencia también en **Java**, **Python**, **PHP**.
-- ⚙️ Trabajo con herramientas modernas como **React**, **Vue** y **Vite**.
-- 💬 Idiomas: Español 🇪🇸 | Inglés 🇬🇧
-- 🎯 Objetivo: Hacer más accesible el aprendizaje de tecnologías emergentes como blockchain.
+- 📚 I specialize in teaching **Solidity**, with a practical approach and real-world projects.
+- 🌐 Also experienced in **Java**, **Python**, **PHP**.
+- ⚙️ I work with modern tools like **React**, **Vue**, and **Vite**.
+- 💬 Languages: Spanish 🇪🇸 | English 🇬🇧
+- 🎯 Goal: Make learning emerging technologies like blockchain more accessible.
 
 ---
 
-## 🚀 Tecnologías que uso
+## 🚀 Technologies I use
 
-### Lenguajes
+### Languages
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### Frameworks / Librerías
+### Frameworks / Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ---
 
-## 🎥 Encuéntrame en
+## 🎥 Find me uwu
 
 - 📩 **Email**: [srllamadev@gmail.com](mailto:srllamadev@gmail.com)
 - 🎥 **YouTube**: [SrLlamaDev](https://www.youtube.com/channel/UCACpUuuDtzfGvzUctYz-MlA)
@@ -55,4 +55,4 @@ Me gusta enseñar, tengo experiencia en varios lenguajes de programación y un g
 
 ---
 
-<p align="center">¡Gracias por visitar mi perfil! 🚀</p>
+<p align="center"> Thanks for visiting my profile! 🚀</p>
