@@ -1,6 +1,6 @@
 # SrLLamaDev
 
-<h1 align="center">🦙🦙🦙🦙 Hi, I am Yamil 🦙🦙🦙🦙</h1>
+<h1 align="center">🦙🦙🦙 Hi, I am Yamil 🦙🦙🦙</h1>
 <h3 align="center">I'm a Sr Programmer Llama | Passionate about programming | I love the role of director.  </h3>
 
 <p align="center">
