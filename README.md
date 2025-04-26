@@ -39,7 +39,7 @@ I'm a director and I enjoy teaching as a hobby. I have experience in several pro
 ## 🎥 Find me uwu
 
 - 📩 **Email**: [srllamadev@gmail.com](mailto:srllamadev@gmail.com)
-- 🎥 **YouTube**: [SrLlamaDev](https://www.youtube.com/channel/UCACpUuuDtzfGvzUctYz-MlA)
+- 🎥 **YouTube**: [srllamadev](https://www.youtube.com/@srllamadev)
 - 🎵 **TikTok**: [@srllamadev](https://www.tiktok.com/@srllamadev)
 - 👤 **Facebook**: [Mi Perfil](https://facebook.com/profile.php?id=61570256863781)
 - 💼 **LinkedIn**: [in/yamil-navia-dev](https://linkedin.com/in/yamil-navia-dev)
