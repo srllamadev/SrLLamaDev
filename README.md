@@ -13,12 +13,6 @@
 
 I'm a director and I enjoy teaching as a hobby. I have experience in several programming languages ​​and I'm passionate about sharing knowledge. This repository is dedicated to *teaching Web3 development* and other languages ​​from the tech world.
 
-- I specialize in teaching **Solidity**, with a practical approach and real-world projects.
-- Also experienced in **Java**, **Python**, **PHP**.
-- I work with modern tools like **React**, **Vue**, and **Vite**.
-- Languages: Spanish 🇪🇸 | English 🇬🇧
-- Goal: Make learning emerging technologies like blockchain more accessible.
-
 ---
 
 ## 🚀 Technologies I use
