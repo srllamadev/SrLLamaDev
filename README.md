@@ -30,7 +30,7 @@ I'm a director and I enjoy teaching as a hobby. I have experience in several pro
 
 ---
 
-## 🎥 Find me uwu
+## 🎥 Find me UwUr
 
 - 📩 **Email**: [srllamadev@gmail.com](mailto:srllamadev@gmail.com)
 - 🎥 **YouTube**: [srllamadev](https://www.youtube.com/@srllamadev)
