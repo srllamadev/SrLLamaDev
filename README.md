@@ -49,4 +49,4 @@ I'm a director and I enjoy teaching as a hobby. I have experience in several pro
 
 ---
 
-<p align="center"> Thanks for visiting my profile! 🚀</p>
+<p align="center"> Thanks for visiting my profile! 🚀 UwUr </p>
