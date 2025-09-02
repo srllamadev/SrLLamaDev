@@ -82,20 +82,6 @@ I'm a technology director with a passion for teaching and development. With exte
 
 ## 🎥 Latest YouTube Content
 
-<!-- TODO: Add your latest YouTube videos using youtube-video-embed -->
-🔜 *Videos coming soon!*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srllamadev&label=Profile%20Views&color=7E3ACE&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/srllamadev/count.svg" />
-</p>
-
 <p align="center"> 
   Thanks for visiting! Remember: "The expert in anything was once a beginner." 🚀 UwUr
 </p>
