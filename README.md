@@ -36,7 +36,7 @@ I'm a director and I enjoy teaching as a hobby. I have experience in several pro
 - 🎥 **YouTube**: [srllamadev](https://www.youtube.com/@srllamadev)
 -  **TikTok**: [@srllamadev](https://www.tiktok.com/@srllamadev)
 - 💼 **LinkedIn**: [in/yamil-navia-dev](https://linkedin.com/in/srllamadev)
--  **Instagram**: [in/llamakachera](https://www.instagram.com/llama_kachera)
+-  **Instagram**: [in/srllamadev](https://www.instagram.com/srllamadev)
 
 ---
 
