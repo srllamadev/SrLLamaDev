@@ -83,5 +83,5 @@ I'm a technology director with a passion for teaching and development. With exte
 ## 🎥 Latest YouTube Content
 
 <p align="center"> 
-  Thanks for visiting! Remember: "The expert in anything was once a beginner." 🚀 UwUr
+  Thanks for visiting! Remember: "The expert in anything was once a beginner. " 🚀 UwUr
 </p>
