@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a technology director with a passion for teaching and development. With extensive experience across multiple programming stacks, I specialize in Web3 technologies and smart contract development. I enjoy sharing knowledge through my YouTube channel and helping developers level up their skills.
 
@@ -15,7 +15,7 @@ I'm a technology director with a passion for teaching and development. With exte
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Blockchain Development
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -45,7 +45,7 @@ I'm a technology director with a passion for teaching and development. With exte
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srllamadev&layout=compact&theme=radical&langs_count=8" />
