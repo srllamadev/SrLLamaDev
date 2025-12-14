@@ -79,7 +79,7 @@ I'm a technology  director with a passion for teaching and development. With ext
 
 ---
 
-## 🦙 (-_-)/ 🦙
+## 🦙 ʕ•́ᴥ•̀ʔっ♡/ 🦙
 
 <p align="center"> 
   Hi guys! 🚀 
