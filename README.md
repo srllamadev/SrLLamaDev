@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a technology director with a passion for teaching and development. With extensive experience across multiple programming stacks, I specialize in Web3 technologies and smart contract development. I enjoy sharing knowledge through my YouTube channel and helping developers level up their skills.
+I'm a technology  director with a passion for teaching and development. With extensive experience across multiple programming stacks, I specialize in Web3 technologies and smart contract development. I enjoy sharing knowledge through my YouTube channel and helping developers level up their skills.
 
 > "Remember that every great project started with a single line of code." -  7u7r
 
