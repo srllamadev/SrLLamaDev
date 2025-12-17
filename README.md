@@ -82,5 +82,5 @@ I'm a technology  director with a passion for teaching and development. With ext
 ## 🦙 ʕ•́ᴥ•̀ʔっ♡ 🦙
 
 <p align="center"> 
-  Hi guys! 🚀 
+  Hi guys!  🚀 
 </p>
