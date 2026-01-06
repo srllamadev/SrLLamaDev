@@ -57,7 +57,7 @@ I'm a technology  director with a passion for teaching and development. With ext
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:srllamadev@gmail.com">
@@ -82,5 +82,5 @@ I'm a technology  director with a passion for teaching and development. With ext
 ## 🦙 ʕ•́ᴥ•̀ʔっ♡ 🦙
 
 <p align="center"> 
-  Hi guys! 🚀 
+  Hi friends! 🚀 
 </p>
