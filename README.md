@@ -1,5 +1,5 @@
 <h1 align="center">🦙🦙🦙 Sr Llama Dev 🦙🦙🦙</h1>
-<h3 align="center"> Director | Senior Full-Stack Developer | Web3 Educator</h3>
+<h3 align="center"> Director | Senior Block-Chain Developer | Web3 Educator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFF200&size=26&center=true&vCenter=true&width=500&lines=Solidity+Architect;Web3+Enthusiast;Blockchain+Educator;Full-Stack+Developer;Open+Source+Contributor" alt="Título profesional" />
