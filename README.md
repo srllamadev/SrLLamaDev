@@ -56,11 +56,6 @@ I'm a technology  director with a passion for teaching and development. With ext
 </p>
 
 ---
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srllamadev&layout=compact&theme=radical&langs_count=8" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SrLLamaDev&theme=radical" />
-</p>
----
 
 ## Let's Connect
 
