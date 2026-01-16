@@ -18,7 +18,7 @@ I'm a technology  director with a passion for teaching and development. With ext
 ## Tech Stack
 
 ### Blockchain Development
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=solidity,eth,web3js,hardhat,truffle" /> </a> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Solidity.svg" width="40" height="40" alt="Solidity" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="40" height="40" alt="Ethereum" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="Web3" /> </p>
 
 ### Frontend Development
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" /> </p>
