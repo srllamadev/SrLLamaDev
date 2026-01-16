@@ -1,10 +1,6 @@
 <h1 align="center">🦙🦙🦙 Sr Llama Dev 🦙🦙🦙</h1>
 <h3 align="center"> Director | Smart Contract Auditor | Web3 Educator</h3>
 
-<p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?color=FFF200&size=26&center=true&vCenter=true&width=500&lines=Solidity+Architect;Web3+Enthusiast;Blockchain+Educator;Block-Chain+Developer;Open+Source+Contributor" alt="Título profesional](https://preview.redd.it/1d11s820dgm91.gif?width=675&format=mp4&s=08fd1dffb13ac194498fea85448d4604ec953ab4](https://preview.redd.it/1d11s820dgm91.gif?width=675&format=mp4&s=08fd1dffb13ac194498fea85448d4604ec953ab4)" />
-</p>
-
 ---
 
 ## About Me
