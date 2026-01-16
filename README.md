@@ -17,7 +17,7 @@ I'm a technology  director with a passion for teaching and development. With ext
 
 ## Tech Stack
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> 
+
 
 <p align="left">
   <a href="https://skillicons.dev">
