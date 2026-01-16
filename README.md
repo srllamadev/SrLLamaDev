@@ -48,7 +48,7 @@ I'm a technology  director with a passion for teaching and development. With ext
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://cdn.lospec.com/gallery/cats-in-the-blue-lake-731334.gif" width="300" />
+  <img src="img/gif2.gif" width="300" />
 </p>
 
 ---
