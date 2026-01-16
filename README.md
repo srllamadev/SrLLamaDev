@@ -48,9 +48,8 @@ I'm a technology  director with a passion for teaching and development. With ext
 ## GitHub Stats
 
 <p align="center">
-  <img src="img/gif2.gif" width="300" />
+  <img src="img/gif2.gif" width="500" />
 </p>
-
 ---
 
 ## Let's Connect
