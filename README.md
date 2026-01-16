@@ -21,10 +21,10 @@ I'm a technology  director with a passion for teaching and development. With ext
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=solidity,eth,web3js,hardhat,truffle" /> </a> </p>
 
 ### Frontend Development
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,vue,vite,js,ts" /> </a> </p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" /> </p>
 
 ### Backend Development
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,py,php,nodejs" /> </a> </p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> </p>
 
 ### Database & DevOps
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,aws" /> </a> </p>
