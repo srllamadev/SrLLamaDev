@@ -1,6 +1,10 @@
 <h1 align="center">🦙🦙🦙 Sr Llama Dev 🦙🦙🦙</h1>
 <h3 align="center"> Director | Smart Contract Auditor | Web3 Educator</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFF200&size=26&center=true&vCenter=true&width=500&lines=Solidity+Architect;Web3+Enthusiast;Blockchain+Educator;Block-Chain+Developer;Open+Source+Contributor" alt="Título profesional" />
+</p>
+
 ---
 
 ## About Me
@@ -44,7 +48,11 @@ I'm a technology  director with a passion for teaching and development. With ext
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://media.tenor.com/7Yf_pC25_4AAAAAi/llama-pajama.gif" width="200" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srllamadev&layout=compact&theme=radical&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srllamadev&theme=radical" />
 </p>
 
 ---
