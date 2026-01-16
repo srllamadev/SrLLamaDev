@@ -48,7 +48,7 @@ I'm a technology  director with a passion for teaching and development. With ext
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/c0861f9561d8d97dc7748f23e8775fde64675ee732ebe8c6106c818e7b5355a6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313237373331322f73637265656e73686f74732f31343733333239382f6d656469612f33396231303435653539333733373538376464363065343263383432326431662e676966" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtZzZ5NXF6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/H7SST387SFE948zSPl/giphy.gif" width="250" />
 </p>
 
 ---
