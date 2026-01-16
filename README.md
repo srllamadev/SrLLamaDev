@@ -48,11 +48,7 @@ I'm a technology  director with a passion for teaching and development. With ext
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srllamadev&layout=compact&theme=radical&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srllamadev&theme=radical" />
+  <img src="https://cdn.lospec.com/gallery/cats-in-the-blue-lake-731334.gif" width="300" />
 </p>
 
 ---
