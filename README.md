@@ -36,7 +36,7 @@ I'm a technology  director with a passion for teaching and development. With ext
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Cobol](https://img.shields.io/badge/Cobol-339933?style=for-the-badge&logo=cobol&logoColor=white)
+![Cobol](https://img.shields.io/badge/Cobol-8B0000?style=for-the-badge&logo=cobol&logoColor=white)
 
 ### Database & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
