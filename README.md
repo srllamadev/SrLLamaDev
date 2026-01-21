@@ -18,11 +18,11 @@ I'm a technology  director with a passion for teaching and development. With ext
 ## Tech Stack
 
 ### Blockchain Development
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-0f5739?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3d8e66?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3.js-45c9a4?style=for-the-badge&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-46b5a9?style=for-the-badge&logo=hardhat&logoColor=black)
+![Truffle](https://img.shields.io/badge/Truffle-52c9eb?style=for-the-badge&logo=truffle&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
