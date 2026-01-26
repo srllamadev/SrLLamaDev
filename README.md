@@ -1,4 +1,4 @@
-<h1 align="center">🦙🦙🦙 Sr Llama Dev 🦙🦙🦙</h1>
+<h1 align="center">🦙🦙🦙🦙 Sr Llama Dev 🦙🦙🦙🦙</h1>
 <h3 align="center"> Director | Smart Contract Auditor | Web3 Educator</h3>
 
 <p align="center">
