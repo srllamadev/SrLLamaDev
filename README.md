@@ -50,7 +50,7 @@ I'm a technology  director with a passion for teaching and development. With ext
 ## GitHub Stats
 
 <p align="center">
-  <img src="img/gif8.gif" width="800" />
+  <img src="img/gif1.gif" width="800" />
 </p>
 
 ---
