@@ -64,7 +64,7 @@ I'm a technology  director with a passion for teaching and development. With ext
   <a href="https://www.youtube.com/@srllamadev">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/srllamadev">
+  <a href="https://www.linkedin.com/in/yamil-navia">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@srllamadev">
