@@ -47,7 +47,7 @@ I'm a technology  director with a passion for teaching and development. With ext
 
 ---
 
-## GitHub Stats
+## Why are cats so cute?
 
 <p align="center">
   <img src="img/gif3.gif" width="600" />
